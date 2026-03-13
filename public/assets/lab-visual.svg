@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#091223" />
+      <stop offset="100%" stop-color="#10233a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="36" fill="url(#bg)" />
+  <g opacity="0.8">
+    <path d="M120 700 340 420l160 150 210-260 180 170" fill="none" stroke="#60d7ff" stroke-width="10" />
+    <path d="M140 770h920" stroke="#36506d" stroke-width="2" />
+    <path d="M180 170h320" stroke="#7f7cff" stroke-width="8" stroke-linecap="round" />
+    <path d="M180 210h440" stroke="#2c415b" stroke-width="8" stroke-linecap="round" />
+  </g>
+  <circle cx="930" cy="240" r="130" fill="#7f7cff" opacity="0.12" />
+  <circle cx="250" cy="240" r="110" fill="#3ee0b4" opacity="0.1" />
+  <text x="50%" y="840" fill="#dcecff" font-family="Arial, sans-serif" font-size="34" text-anchor="middle">
+    AI / research background visual
+  </text>
+</svg>
